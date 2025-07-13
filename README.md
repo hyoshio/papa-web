@@ -2,6 +2,8 @@
 
 LINEのようなチャットUIを持つAI会話デモアプリです。
 
+🌐 **[ライブデモ](https://hyoshio.github.io/papa-web/)**
+
 ## 概要
 
 - LINEのトーク画面のような操作感
